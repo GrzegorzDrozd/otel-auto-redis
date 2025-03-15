@@ -1,5 +1,5 @@
 {
-  "name": "grzegorzdrozd/opentelemetry-auto-redis",
+  "name": "grzegorzdrozd/otel-auto-redis",
   "description": "OpenTelemetry auto-instrumentation for Redis",
   "keywords": ["opentelemetry", "otel", "open-telemetry", "tracing", "redis", "instrumentation"],
   "type": "library",
